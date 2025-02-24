@@ -7,3 +7,9 @@
 先下载python 然后用打包命令生成exe文件，最后双击运行即可
 `pip install pyinstaller`
 `pyinstaller --onefile your_script.py`
+
+p.s：excel表格的格式(.xlsx)需要是
+1.现有文件名称（列）：xxxx（列）
+2.重命名后的文件名称：xxxx
+3.现有文件名称：xxxx
+4.重命名后的文件名称：xxxx
